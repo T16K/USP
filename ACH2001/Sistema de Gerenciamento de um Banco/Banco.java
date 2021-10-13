@@ -17,7 +17,7 @@ public class Banco {
 	/* Construtor da Classe Banco
 	 * Inicializa os dois atributos do objeto que esta sendo instanciado.
 	 */
-	Banco(){
+	Banco() {
 		gerentes = new Gerente[10];
 		numGerentes = 0;
 	}
