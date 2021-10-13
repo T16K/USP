@@ -31,7 +31,7 @@ typedef struct {
 	NO* topo;
 } PDINAM;
 
-// Inicialização da pilha dinâmica
+// InicializaÃ§Ã£o da pilha dinÃ¢mica
 void inicializarPdinam (PDINAM* p) {
 	p->topo = NULL;
 }
@@ -144,4 +144,4 @@ int main() {
 	
 }
 
-// por favor nao inclua nenhum código abaixo da função main()
+// por favor nao inclua nenhum cÃ³digo abaixo da funÃ§Ã£o main()
